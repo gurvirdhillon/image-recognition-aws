@@ -59,4 +59,4 @@ python3 recognition-aws.py
 
 # Resources utilised:
 
-<a href="https://youtu.be/PyjDVZ--cfs?si=HlL_DCb7T3EO4Zra">Inspired by Tiny Technical Tutorials</a>
+<a href="https://youtu.be/PyjDVZ--cfs?si=HlL_DCb7T3EO4Zra" target="_blank">Inspired by Tiny Technical Tutorials</a>
