@@ -1,0 +1,43 @@
+Requesting recognition
+Bucket: test-bucket-09-11-1601
+Photo: car.jpg
+
+Detected labels for car.jpg:
+
+Label: Car (Confidence: 99.43%)
+Label: Vehicle (Confidence: 99.43%)
+Label: Sports Car (Confidence: 96.63%)
+Label: Machine (Confidence: 96.11%)
+Label: Wheel (Confidence: 96.11%)
+Label: Coupe (Confidence: 95.17%)
+Label: Person (Confidence: 82.55%)
+Label: Jaguar Car (Confidence: 56.65%)
+Label: Convertible (Confidence: 55.53%)
+Label: Tire (Confidence: 55.40%)
+Requesting recognition
+Bucket: test-bucket-09-11-1601
+Photo: milk.jpg
+
+Detected labels for milk.jpg:
+
+Label: Beverage (Confidence: 100.00%)
+Label: Milk (Confidence: 100.00%)
+Label: Dairy (Confidence: 81.58%)
+Label: Food (Confidence: 81.58%)
+Label: Glass (Confidence: 57.04%)
+Requesting recognition
+Bucket: test-bucket-09-11-1601
+Photo: dog.jpg
+
+Detected labels for dog.jpg:
+
+Label: Animal (Confidence: 100.00%)
+Label: Canine (Confidence: 100.00%)
+Label: Dog (Confidence: 100.00%)
+Label: Mammal (Confidence: 100.00%)
+Label: Pet (Confidence: 100.00%)
+Label: Puppy (Confidence: 100.00%)
+Label: Grass (Confidence: 99.89%)
+Label: Golden Retriever (Confidence: 99.87%)
+Label: Lawn (Confidence: 57.35%)
+Label: Labrador Retriever (Confidence: 55.58%)
