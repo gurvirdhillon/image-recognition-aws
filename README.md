@@ -33,8 +33,9 @@ git clone https://github.com/gurvirdhillon/image-recognition-aws
 Change directory:
 ```terminal
 cd image-recognition-aws
-```
+```  
 
+Installing Requirements:  
 ```pip
 pip install -r requirements.txt
 ```
