@@ -35,6 +35,11 @@ Change directory:
 cd image-recognition-aws
 ```
 
+```pip
+pip install -r requirements.txt
+```
+
+
 Sanity check:
 ```terminal
 python3 bucket-check.py
